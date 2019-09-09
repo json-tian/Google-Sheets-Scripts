@@ -11,7 +11,6 @@ function updateDMOJ() {
   date.setValue(new Date());
   
   updateInfo(lastRow + 1, sheet, 0, "https://dmoj.ca/user/jason6");
-  updateInfo(lastRow + 1, sheet, 6, "https://dmoj.ca/user/jacob_tian");
   
 }
 
